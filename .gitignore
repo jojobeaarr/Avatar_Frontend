@@ -1,0 +1,52 @@
+###
+# Unity folders and files
+###
+/Avatar/[Aa]ssets/AssetStoreTools*
+/Avatar/[Bb]uild/
+/Avatar/[Ll]ibrary/
+/Avatar/[Ll]ocal[Cc]ache/
+/Avatar/[Oo]bj/
+/Avatar/[Tt]emp/
+/Avatar/[Uu]nityGenerated/
+
+# file on crash reports
+sysinfo.txt
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Packed Addressables
+/Avatar//[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary auto-generated Android Assets
+/Avatar/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/Avatar/[Aa]ssets/[Ss]treamingAssets/aa/*
